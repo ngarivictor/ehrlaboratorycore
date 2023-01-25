@@ -29,10 +29,10 @@
 
 	<properties>
 		<openMRSVersion>2.3.3</openMRSVersion>
-		<hospitalcoreVersion>2.0.2</hospitalcoreVersion>
+		<hospitalcoreVersion>2.0.3-SNAPSHOT</hospitalcoreVersion>
 		<legacyUiVersion>1.5.0</legacyUiVersion>
 		<kenyaemrVersion>17.0.3</kenyaemrVersion>
-		<ehrconfigsVersion>2.0.0</ehrconfigsVersion>
+		<ehrconfigsVersion>2.0.1-SNAPSHOT</ehrconfigsVersion>
 	</properties>
 
 	<dependencyManagement>
